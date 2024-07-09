@@ -1,0 +1,375 @@
+/* transform: translate() scale(); */
+
+
+
+
+/* Lending pad logo  */
+
+
+
+ @keyframes Lending-pad-logo-Anim {
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+#Hero-Graphic #Logo{
+    animation: Lending-pad-logo-Anim 0.4s ease-in-out forwards;
+    animation-delay: .5s;
+    opacity: 0;
+}
+
+
+
+
+
+
+
+ /* blue icon animation  */
+
+
+@keyframes Blue-Icon-1-animation {
+    0%{
+        opacity: 0 ;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+#Blue #Icon-1{
+    animation: Blue-Icon-1-animation .4s ease-in-out forwards; 
+    animation-delay: 1.1s;
+    opacity: 0;
+ }
+
+@keyframes Blue-Icon-2-animation {
+    0%{
+        opacity: 0 ;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+#Blue #Icon-2{
+    animation: Blue-Icon-2-animation .4s ease-in-out forwards; 
+    animation-delay: 1.8s;
+    opacity: 0;
+ }
+
+
+@keyframes Blue-Icon-3-animation {
+    0%{
+        opacity: 0 ;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+#Blue #Icon-3{
+    animation: Blue-Icon-3-animation .4s ease-in-out forwards; 
+    animation-delay: 2.65s;
+    opacity: 0;
+ }
+
+
+@keyframes Blue-Icon-4-animation {
+    0%{
+        opacity: 0 ;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+#Blue #Icon-4{
+    animation: Blue-Icon-4-animation .4s ease-in-out forwards;  
+    animation-delay: 3.5s;
+    opacity: 0;
+ }
+
+ 
+@keyframes Blue-Icon-5-animation {
+    0%{
+        opacity: 0 ;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+#Blue #Icon-5{
+    animation: Blue-Icon-5-animation .4s ease-in-out forwards;  
+    animation-delay: 4.7s;
+    opacity: 0;
+ }
+
+
+
+
+
+ /* green icon animations */
+
+
+
+
+ @keyframes Green-Icon-1-animation {
+    0%{
+        opacity: 0 ;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+#Green #Icon-1{
+    animation: Green-Icon-1-animation .4s ease-in-out forwards;  
+    animation-delay: 1.9s;
+    opacity: 0;
+ }
+
+ @keyframes Green-Icon-2-animation {
+    0%{
+        opacity: 0 ;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+#Green #Icon-2{
+    animation: Green-Icon-2-animation .4s ease-in-out forwards;  
+    animation-delay: 3s;
+    opacity: 0;
+ }
+
+ @keyframes Green-Icon-3-animation {
+    0%{
+        opacity: 0 ;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+#Green #Icon-3{
+    animation: Green-Icon-3-animation .4s ease-in-out forwards;  
+    animation-delay: 3.8s;
+    opacity: 0;
+ }
+
+ @keyframes Green-Icon-4-animation {
+    0%{
+        opacity: 0 ;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+#Green #Icon-4{
+    animation: Green-Icon-4-animation .4s ease-in-out forwards;  
+    animation-delay: 5.1s;
+    opacity: 0;
+ }
+
+ @keyframes Green-Icon-5-animation {
+    0%{
+        opacity: 0 ;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+#Green #Icon-5{
+    animation: Green-Icon-5-animation .4s ease-in-out forwards;  
+    animation-delay: 5.9s;
+    opacity: 0;
+ }
+
+ @keyframes Green-Icon-6-animation {
+    0%{
+        opacity: 0 ;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+#Green #Icon-6{
+    animation: Green-Icon-6-animation .4s ease-in-out forwards;  
+    animation-delay: 7.2s;
+    opacity: 0;
+ }
+
+ @keyframes Green-Icon-7-animation {
+    0%{
+        opacity: 0 ;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+#Green #Icon-7{
+    animation: Green-Icon-7-animation .4s ease-in-out forwards;  
+    animation-delay: 7.5s;
+    opacity: 0;
+ }  
+
+
+
+
+
+
+ /* dark blue icon */
+
+
+
+
+ 
+ @keyframes Dark-Blue-Icon-1-animation {
+    0%{
+        opacity: 0 ;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+#Dark-Blue #Icon-1{
+    animation: Dark-Blue-Icon-1-animation .4s ease-in-out forwards;  
+    animation-delay: 1.7s;
+    opacity: 0;
+ }
+ 
+ @keyframes Dark-Blue-Icon-2-animation {
+    0%{
+        opacity: 0 ;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+#Dark-Blue #Icon-2{
+    animation: Dark-Blue-Icon-2-animation .4s ease-in-out forwards;  
+    animation-delay: 1.9s;
+    opacity: 0;
+ }
+ 
+ @keyframes Dark-Blue-Icon-3-animation {
+    0%{
+        opacity: 0 ;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+#Dark-Blue #Icon-3{
+    animation: Dark-Blue-Icon-3-animation .4s ease-in-out forwards;  
+    animation-delay: 2.3s;
+    opacity: 0;
+ }
+ 
+ @keyframes Dark-Blue-Icon-4-animation {
+    0%{
+        opacity: 0 ;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+#Dark-Blue #Icon-4{
+    animation: Dark-Blue-Icon-4-animation .4s ease-in-out forwards;  
+    animation-delay: 3.4s;
+    opacity: 0;
+ }
+ 
+ @keyframes Dark-Blue-Icon-5-animation {
+    0%{
+        opacity: 0 ;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+#Dark-Blue #Icon-5{
+    animation: Dark-Blue-Icon-5-animation .4s ease-in-out forwards;  
+    animation-delay: 4.1s;
+    opacity: 0;
+ }
+ 
+ @keyframes Dark-Blue-Icon-6-animation {
+    0%{
+        opacity: 0 ;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+#Dark-Blue #Icon-6{
+    animation: Dark-Blue-Icon-6-animation .4s ease-in-out forwards;  
+    animation-delay: 5.1s;
+    opacity: 0;
+ }
+ 
+ @keyframes Dark-Blue-Icon-7-animation {
+    0%{
+        opacity: 0 ;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+#Dark-Blue #Icon-7{
+    animation: Dark-Blue-Icon-7-animation .4s ease-in-out forwards;  
+    animation-delay: 6.5s;
+    opacity: 0;
+ }
+
+
+
+
+
+
+/* lines animation */
+
+
+#Blue .dashed_Blue , #Dark-Blue .dashed_Dark-Blue ,#Green .dashed_Green {
+   stroke-dasharray: 5
+}
+
+
+
+
+
+#Blue .path_Blue{
+    stroke-dashoffset: 1650;
+    animation: draw 6s linear alternate forwards;
+    animation-delay: 1.2s;
+    
+}
+
+
+
+/* Dark_blue  */
+
+
+
+
+#Dark-Blue .Dark-Blue {
+    stroke-dashoffset: 1650;
+    animation: draw 6s linear alternate forwards;
+    animation-delay: 2s;
+}
+
+
+
+/* Green */
+
+
+
+#Green .Green{
+    stroke-dashoffset: 1650;
+    animation: draw 6s linear alternate forwards;
+    animation-delay: 2.8s;
+}
+
+
+@keyframes draw {
+    to {
+        stroke-dashoffset: 0
+    }
+}
